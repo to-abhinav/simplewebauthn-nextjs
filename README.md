@@ -48,8 +48,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/to/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/to-abhinav/simplewebauthn-nextjs.git
+   cd simplewebauthn-nextjs
    ```
 
 2. Install dependencies:
